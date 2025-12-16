@@ -1,18 +1,17 @@
-# Flashcard Quiz App
+# JavaScript Mini Tasks Project
 
-A simple flashcard quiz web application built using HTML, CSS, and JavaScript.
+This project demonstrates three basic JavaScript tasks using HTML, CSS, and JavaScript.
 
-## Features
-- Show answer functionality
-- Next & Previous flashcards
-- Add custom flashcards
-- Clean and responsive UI
+## Tasks Included
+1. Factorial of a number
+2. Palindrome number check
+3. Fibonacci series generation
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- VS Code
+## Files
+- index.html – Main HTML file
+- style.css – Styling
+- script.js – JavaScript logic
+- README.md – Project description
 
-## Internship
-CodeAlpha App Development Internship
+## How to Run
+Open index.html in any web browser.
